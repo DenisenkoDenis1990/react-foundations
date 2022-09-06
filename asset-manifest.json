@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DenisenkoDenis1990/react-foundations/static/css/main.7acaea2f.css",
-    "main.js": "/DenisenkoDenis1990/react-foundations/static/js/main.07d3183d.js",
+    "main.css": "/DenisenkoDenis1990/react-foundations/static/css/main.51408356.css",
+    "main.js": "/DenisenkoDenis1990/react-foundations/static/js/main.20c5fa3c.js",
     "index.html": "/DenisenkoDenis1990/react-foundations/index.html",
-    "main.7acaea2f.css.map": "/DenisenkoDenis1990/react-foundations/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/DenisenkoDenis1990/react-foundations/static/js/main.07d3183d.js.map"
+    "main.51408356.css.map": "/DenisenkoDenis1990/react-foundations/static/css/main.51408356.css.map",
+    "main.20c5fa3c.js.map": "/DenisenkoDenis1990/react-foundations/static/js/main.20c5fa3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.51408356.css",
+    "static/js/main.20c5fa3c.js"
   ]
 }
